@@ -1,0 +1,13 @@
+<section class="container my-5">
+  <h2>Executive Summary</h2>
+  <p>Colorado Springs represents a high-value, high-impact location for MPLW expansion...</p>
+</section>
+
+<section class="container my-5">
+  <h2>Revenue Projections</h2>
+  <ul>
+    <li>96–112 students/year × $9,500 → $912k–$1.064M</li>
+    <li>Cohort model (500 students) → $4.75M</li>
+  </ul>
+  <img src="images/vets2pm_colorado_business_case.png" class="img-fluid rounded shadow" alt="Business case ROI graphic">
+</section>
